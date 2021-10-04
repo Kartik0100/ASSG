@@ -1,2 +1,2 @@
-# INE_ASSG
+# ASSG
 Ineuron Assignment
